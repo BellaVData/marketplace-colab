@@ -38,4 +38,4 @@
 * **Аналитическое мышление:** Способность находить взаимосвязи между техническими параметрами (метод оплаты) и бизнес-результатами (отмены).
 * **Работа с Python в среде Colab:** Навыки импорта данных и использования инструментов для автоматизации анализа.
 
-[![Open In Colab] (https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/github/BellaVData/marketplace-colab/blob/main/%D0%94%D0%BE%D0%BB%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%91.%D0%92..ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BellaVData/marketplace-colab/blob/main/%D0%94%D0%BE%D0%BB%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%91.%D0%92..ipynb)
